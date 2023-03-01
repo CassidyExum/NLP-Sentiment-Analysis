@@ -1,1 +1,8 @@
+tweet_text
+    The context of the tweets
 
+emotion_in_tweet_is_directed_at
+    The subject of the tweet
+    
+is_there_an_emotion_directed_at_a_brand_or_product
+    If there is an emotion in the tweet
