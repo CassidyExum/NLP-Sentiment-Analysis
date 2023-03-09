@@ -28,15 +28,21 @@ As part of my EDA and feature engineering, I checked different attributes of the
 There was a massive class imbalance where about 60% of the tweets were classified as "No emotion." I suspect that a larger dataset with more tweets classified as either 'Positive' or 'Negative' would tremendously help the models perform better.
 
 Image 1 is the count of the tweets with x number of sentences in Positive, Neutral, and Negative tweets
+
 ![image](https://user-images.githubusercontent.com/104473048/224124854-12af0e98-4133-49d2-a11e-5853bf23a345.png)
+
 Image 2 is the count of tweets that contain emoticons in Positive, Neutral, and Negative tweets
+
 ![image](https://user-images.githubusercontent.com/104473048/224124973-c1800bd2-626d-4774-931f-267daa689547.png)
 
 I also plotted a 'Word Cloud' to show the frequency of words in all tweets in a more visual format than just a graph
+
 ![image](https://user-images.githubusercontent.com/104473048/224125494-d3e95971-f04a-4be7-bc60-67624a7bbb84.png)
+
 There are 3 other word clouds in the notebook for showing Positive only, Neutral only, and Negative only.
 
 Lastly, I found similar words in the Word2Vec model for the stakeholder to use in marketing and advertising. A sample of those is shown below.
+
 ![image](https://user-images.githubusercontent.com/104473048/224126174-63eb547f-90df-43ea-bcd0-ee4fdadaedaa.png)
 
 ## Modeling
