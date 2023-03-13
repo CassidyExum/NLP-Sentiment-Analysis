@@ -73,4 +73,5 @@ Using Gensim Word2Vec I was able to find the top 10 most similar words used in b
     ├── .gitignore
     ├── NLP and Sentiment Analysis.ipynb
     ├── Notebook.pdf
+    ├── Presentation NLP.pdf
     └── README.md
