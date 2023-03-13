@@ -53,7 +53,10 @@ For the Neural Net, I found that using 3 training epochs achieved the best retur
 
 The Random Forest model achieved a training accuracy of 68%, and an F1 score of 95%
 
-The XGBoost model achieved a training accuracy of 68%, and an F1 score of 94%
+The image below is the confusion matrix for the final model.
+
+<img width="340" alt="Screen Shot 2023-03-13 at 12 12 53 PM" src="https://user-images.githubusercontent.com/104473048/224854746-3ce68879-bca9-4cc4-8cb3-cc847a99dc7e.png">
+
 
 ## Recommendations
 
